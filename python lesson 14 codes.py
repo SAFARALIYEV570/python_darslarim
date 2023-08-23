@@ -10,10 +10,10 @@
 # print(f"Hasanning sevimli taomi {sev_taom['hasan']}")   
 
 
-#3-code
-py_lug = {'if':'agar','else':'boshqa','elif':'agar','str':'matn','int':'butun son','float':'onlik son','title':'sarlavha','lower':'pastroq'}
-k_suz = str(input("Kalit so'zni kiriting:"))
-if k_suz in py_lug:
-    print(py_lug[k_suz])
-else:
-    print("Bunday so'z mavjud emas")
+# #3-code
+# py_lug = {'if':'agar','else':'boshqa','elif':'agar','str':'matn','int':'butun son','float':'onlik son','title':'sarlavha','lower':'pastroq'}
+# k_suz = str(input("Kalit so'zni kiriting:"))
+# if k_suz in py_lug:
+#     print(py_lug[k_suz])
+# else:
+#     print("Bunday so'z mavjud emas")
