@@ -18,14 +18,14 @@
 #     print("Kecharasiz,bizda bu haqida ma'lumot yo'q")
 
 # # 3-code
-taom_n = {'osh':'30 ming',"kabob":'100 ming','somsa':'12 ming','shashlik':'15 ming'}
-print('3 ta taom buyurtma bering.')
-buyurtmalar = []
-for n in range(3):
-    buyurtmalar.append(input(f"{n+1}-taom:").lower())
+# taom_n = {'osh':'30 ming',"kabob":'100 ming','somsa':'12 ming','shashlik':'15 ming'}
+# print('3 ta taom buyurtma bering.')
+# buyurtmalar = []
+# for n in range(3):
+#     buyurtmalar.append(input(f"{n+1}-taom:").lower())
 
-for buyurtma in buyurtmalar:
-    if buyurtma in taom_n:
-        print(f"{buyurtma.title()} {taom_n[buyurtma]} so'm")
-    else:
-        print(f"Kechirasiz, bizda {buyurtma} yo'q.")
+# for buyurtma in buyurtmalar:
+#     if buyurtma in taom_n:
+#         print(f"{buyurtma.title()} {taom_n[buyurtma]} so'm")
+#     else:
+#         print(f"Kechirasiz, bizda {buyurtma} yo'q.")
